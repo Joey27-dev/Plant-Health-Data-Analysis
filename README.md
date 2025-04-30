@@ -4,7 +4,7 @@ Data analysis of plant health with visualizations and decision tree modeling usi
 # Plant Health Monitoring — Data Analysis & Power BI Dashboard
 
 ## Project Overview
-This project aims to explore sensor-collected data on plant health using Python (Jupyter Notebook) and Power BI. Through exploratory data analysis I was able to identify the key environmental factors that affect plant tsress levels — categorized into **Healthy**, **Moderate Stress**, and **High Stress** — and visualize these insights effectively for both data science and business audiences.
+This project aims to explore sensor-collected data on plant health using Python (Jupyter Notebook) and Power BI. Through exploratory data analysis I was able to identify the key environmental factors that affect plant stress levels — categorized into **Healthy**, **Moderate Stress**, and **High Stress** — and visualize these insights effectively for data science.
 
 ---
 

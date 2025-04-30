@@ -25,23 +25,23 @@ This project aims to explore sensor-collected data on plant health using Python 
 - **Model Used:** `DecisionTreeClassifier` from scikit-learn
 - **Goal:** Predict `Plant_Health_Status` based on environmental and physiological data
 - **Feature Importance Results:**
-  - ✅ **Most Important Feature:** `Soil_Moisture`
-  - ✅ **Second Most Important Feature:** `Nitrogen_Level`
+  - **Most Important Feature:** `Soil_Moisture`
+  - **Second Most Important Feature:** `Nitrogen_Level`
   - Remaining features contributed < 1% each
 
 ---
 
 ## Visualizations (Jupyter Notebook)
 
-- **📌 Pie Chart:** Plant health distribution for:
+- **Pie Chart:** Plant health distribution for:
   - `Soil Moisture < 20%`
   - `Soil Moisture > 30%`
-- **📌 Bar Graph:** Distribution of health status or feature values
-- **📌 Heatmap:** Correlation between `Humidity` and `Soil Moisture`
-- **📌 Scatter Plots:**
+- **Bar Graph:** Distribution of health status or feature values
+- **Heatmap:** Correlation between `Humidity` and `Soil Moisture`
+- **Scatter Plots:**
   - `Temperature Difference (Ambient - Soil)` vs `Plant_Health_Status`
   - `Soil_pH` across different health statuses
-- **📌 Partial Dependence Plot:**
+- **Partial Dependence Plot:**
   - Shows influence of `Nitrogen_Level` on predicted plant health
 
 ---

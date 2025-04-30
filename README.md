@@ -85,5 +85,6 @@ Created an interactive dashboard to extend the analysis for non-technical stakeh
 
 ## Author
 
-**[Joash Austin Pillay]**  
-[Joash Pillay] • [Joey27-dev] • [joashaustinpillay27@gmail.com]
+**Joash Austin Pillay**  
+[LinkedIn - Joash Pillay](https://www.linkedin.com/in/joashpillay) • [GitHub: Joey27-dev](https://github.com/Joey27-dev) • [Email: joashaustinpillay27@gmail.com](joashaustinpillay27@gmail.com)
+

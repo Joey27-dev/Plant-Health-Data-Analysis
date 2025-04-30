@@ -25,8 +25,8 @@ This project aims to explore sensor-collected data on plant health using Python 
 - **Model Used:** `DecisionTreeClassifier` from scikit-learn
 - **Goal:** Predict `Plant_Health_Status` based on environmental and physiological data
 - **Feature Importance Results:**
-  - ✅ **Top Predictor:** `Soil_Moisture`
-  - ✅ **Second Most Important:** `Nitrogen_Level`
+  - ✅ **Most Important Feature:** `Soil_Moisture`
+  - ✅ **Second Most Important Feature:** `Nitrogen_Level`
   - Remaining features contributed < 1% each
 
 ---
